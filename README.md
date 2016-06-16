@@ -4,7 +4,7 @@ This is a python script which you can use to search for random movies on IMDB by
 
 How to use: <br />
 1. Navigate to the required folder in your terminal screen. <br />
-2. Now type "python3 imdb.py" in your terminal screen. <br />
+2. Now type "python imdb.py" in your terminal screen. <br />
 3. Enter minimum and maximum rating to set the range of IMDB rating you want your list should have.<br />
 4. Enter the number of movies you want to search for.<br />
 5. You'll get a list of movies which will also consist the link to their corresponding IMDB page.<br />
